@@ -1,4 +1,5 @@
 flask/
 *.pyc
 *~
-.dea/
+.idea/
+app.db
